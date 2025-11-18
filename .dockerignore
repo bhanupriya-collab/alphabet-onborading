@@ -22,3 +22,5 @@ drive_token.json
 
 # Local editor settings
 .vscode/
+
+*.md

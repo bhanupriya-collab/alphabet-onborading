@@ -11,3 +11,6 @@ google-auth-httplib2
 google-auth-oauthlib
 # Scheduler/Sheets enhancements
 google-api-python-client
+# Web server for Cloud Run
+Flask==3.0.0
+gunicorn==21.2.0
