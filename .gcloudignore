@@ -1,0 +1,11 @@
+*.env
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.venv/
+venv/
+token.json
+*.json
+.gitignore

@@ -1,0 +1,13 @@
+extract-msg
+google-adk
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-cloud-storage
+openpyxl
+google-cloud-logging
+google-auth-httplib2
+google-auth-oauthlib
+# Scheduler/Sheets enhancements
+google-api-python-client

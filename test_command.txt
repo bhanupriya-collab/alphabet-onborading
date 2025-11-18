@@ -1,0 +1,1 @@
+python -c "from root_agent.tools.welcome_mail import welcome_mail; print(welcome_mail('Test User','N/A','HR Team','bhangupta@deloitte.com'))"

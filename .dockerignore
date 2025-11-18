@@ -1,0 +1,24 @@
+# Exclude VCS
+.git/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large HTML template assets (optional keep if needed)
+templates/*_files/
+root_agent/prompts/templates/*_files/
+
+# Credentials (never bake into image)
+*.json
+!service-account-key.json # only include if absolutely required (prefer Workload Identity)
+
+token.json
+drive_token.json
+
+# Local editor settings
+.vscode/
